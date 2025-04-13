@@ -1,0 +1,7 @@
+PyAutoGUI
+numpy
+mediapipe
+opencv_python
+pynput
+cvzone
+autopy
