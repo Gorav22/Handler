@@ -2,10 +2,7 @@
 
 ## Demo Video
 
-<video width="640" height="360" controls>
-  <source src="https://www.youtube.com/watch?v=uqZD_0jXbqY" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+For Demo Visit <a href="https://www.youtube.com/watch?v=uqZD_0jXbqY">Here</a>
 
 ## About
 Hand-Controller is a gesture-based recognition system to control your computer. 
