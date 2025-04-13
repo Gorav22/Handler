@@ -3,7 +3,7 @@
 ## Demo Video
 
 <video width="640" height="360" controls>
-  <source src="https://github.com/Gorav22/Handler/raw/main/demo.mp4" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=uqZD_0jXbqY" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
