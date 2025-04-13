@@ -51,7 +51,7 @@ Left Click gesture.
 
 ## Getting Started
 ### Pre-requisites
-- Python: 3.8.5
+- Python: >=3.8.5 
 - Environment: Anaconda. Download link [here](https://www.anaconda.com/products/individual)
 - Hardware: A computer with webcam
 
