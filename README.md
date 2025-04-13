@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ### 2. Installation.
 - Clone this repo:
 ```
-git clone https://github.com/Gorav22/Hand-Controller
+git clone https://github.com/Gorav22/Handler
 ```
 
 ## Usage
